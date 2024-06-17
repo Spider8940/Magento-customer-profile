@@ -5,3 +5,5 @@
 5. git add index.html :-> git add -A
 6 git commit ;->  git commit -a (for commit all files)
 7 git commit -m "file statues name"
+8. git checkout comment.html (Recover modifide file frome last commit)
+9. git checkout -f (recover all modifide file from last commit)
