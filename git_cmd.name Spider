@@ -7,3 +7,4 @@
 7 git commit -m "file statues name"
 8. git checkout comment.html (Recover modifide file frome last commit)
 9. git checkout -f (recover all modifide file from last commit)
+10 $ git log -p -2 (check last 2 commit)
