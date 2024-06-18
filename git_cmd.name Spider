@@ -14,3 +14,4 @@
 14.git rm --cached west.html (remove file from stage not on local )
 15. git rm (remove local or stage both)
 16 git status -s (overview for all )
+17.
