@@ -9,3 +9,5 @@
 9. git checkout -f (recover all modifide file from last commit)
 10 $ git log -p -2 (check last 2 commit)
 11. git diff (check modifide file deffrence vs last commit file)
+12 git diff --staged
+13. git commit -a -m "skipped stage" (nothing to run again and again cmd this cmd is run all add and commit)
