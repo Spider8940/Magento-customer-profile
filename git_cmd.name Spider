@@ -11,3 +11,6 @@
 11. git diff (check modifide file deffrence vs last commit file)
 12 git diff --staged
 13. git commit -a -m "skipped stage" (nothing to run again and again cmd this cmd is run all add and commit)
+14.git rm --cached west.html (remove file from stage not on local )
+15. git rm (remove local or stage both)
+16 git status -s (overview for all )
