@@ -1,7 +1,6 @@
 # Magento-customer-profile
 
 You can get the professional version of this extension here (No issues and is supported free)
-https://www.giaphugroup.com/magento-2-customer-avatar-extension.html
 
 How to add the profile picture for a customer in Magento 2
 
