@@ -1,0 +1,6 @@
+<?php
+$profileImage = $block->getProfileImage();
+$mediaUrl = $block->getMediaUrl();
+if ($profileImage): ?>
+    <img src="<?php echo $mediaUrl . $profileImage; ?>" alt="Profile Image" />
+<?php endif; ?>

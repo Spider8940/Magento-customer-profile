@@ -1,0 +1,13 @@
+<form action="<?php echo $block->getUrl('devops/customer/profile') ?>" method="post" enctype="multipart/form-data">
+    <div class="field">
+        <label for="profile_image" class="label"><span><?php echo __('Upload Profile Image') ?></span></label>
+        <div class="control">
+            <input type="file" name="profile_image" id="profile_image" class="input-text"/>
+        </div>
+    </div>
+    <div class="actions-toolbar">
+        <div class="primary">
+            <button type="submit" class="action save primary"><span><?php echo __('Upload') ?></span></button>
+        </div>
+    </div>
+</form>
